@@ -189,9 +189,9 @@
 - **Создание PR:**
     - PR создаётся из ветки задачи в ветку `main`
     - Одна задача = одна ветка = один PR
-    - PR должен содержать структурированное описание по [PR template](...)
-    - Файл [PR template](...) хранится в репозитории проекта
-    - Путь к файлу [PR template](...): `.github/pull_request_template.md`
+    - PR должен содержать структурированное описание по [PR template](https://github.com/nagorapro/git-workflow/blob/main/pr_template.md)
+    - Файл [PR template](https://github.com/nagorapro/git-workflow/blob/main/pr_template.md) хранится в репозитории проекта
+    - Путь к файлу [PR template](https://github.com/nagorapro/git-workflow/blob/main/pr_template.md): `.github/pull_request_template.md`
     - Описание PR содержит секции действий над файлами и полные пути к ним
 
 - **Разработка в PR:**
