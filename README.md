@@ -157,6 +157,7 @@
     - *type* — файл с типами (.ts)
     - *config* — файл с конфигурацией (.js, .json, .yaml)
     - *mock* — файл с фейковыми данными (.js, .json, .yaml)
+    - *scheme* — файл со схемами для валидации (.js)
     - *template* — файл с шаблоном (.html, .xml, .sql)
     - *style* — файл со стилизацией (.css, .scss, .sass)
     - *test* — файл с тестами (.test.js)
